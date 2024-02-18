@@ -18,5 +18,5 @@ Fala dev´s sou Rafael, aspirante a desenvolverdor mobile, um apaixonado por tec
 
 ### Meus Principais Desafios de Projeto DIO
 [![Repo DIO Eletric Car](https://github-readme-stats.vercel.app/api/pin/?username=RafaelSantos0322&repo=eletric_car&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RafaelSantos0322/eletric_car)
-[![Repo DIO Meu Primeiro APP Kotlin](https://github-readme-stats.vercel.app/api/pin/?username=RafaelSantos0322&repo=meu-primeiro-app-kotlin&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RafaelSantos0322/meu-primeiro-app-kotlin)
+[![QuizAppBible](https://github-readme-stats.vercel.app/api/pin/?username=RafaelSantos0322&repo=QuizAppBible&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RafaelSantos0322/QuizAppBible)
 
