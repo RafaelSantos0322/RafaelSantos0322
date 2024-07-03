@@ -1,5 +1,5 @@
-# Mobile Developer - *Rafael Santos*
-Fala dev´s sou Rafael, aspirante a desenvolverdor mobile, um apaixonado por tecnologia que busca migrar para essa área, para tal tenho buscado conhecimento através de cursos, livros e etc para pode estar apto para conseguir minha tão sonhada primeira oportunidade!
+# FRONT-END DEVELOPER- *Rafael Santos*
+Fala dev´s sou Rafael, desenvolverdor front-end, um apaixonado por tecnologia que busca migrar para essa área, para tal tenho buscado conhecimento através de cursos, livros e etc para pode estar apto para conseguir minha tão sonhada primeira oportunidade!
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/freelancerrafaelsantos)
@@ -7,8 +7,10 @@ Fala dev´s sou Rafael, aspirante a desenvolverdor mobile, um apaixonado por tec
 
 
 ### Habilidades
-![Kotlin](https://img.shields.io/badge/kotlin-000?style=for-the-badge&logo=kotlin&logoColor=#D62E97)
-![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=Android&logoColor=#D62E97)
+
+![HTML 5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor=#D62E97)
+![CSS 3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=#D62E97)
+![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=#D62E97)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
