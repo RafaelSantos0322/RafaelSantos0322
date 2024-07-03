@@ -1,5 +1,6 @@
 # FRONT-END DEVELOPER- *Rafael Santos*
 Fala dev´s sou Rafael, desenvolverdor front-end, um apaixonado por tecnologia que busca migrar para essa área, para tal tenho buscado conhecimento através de cursos, livros e etc para pode estar apto para conseguir minha tão sonhada primeira oportunidade!
+Tenho conhecimento em CSS3, HTML5, JavaScript, Git, GitHub,  além de entender alguns conceitos de mobile nativo (Kotlin-Android) e hibrido (Dart-Flutter).
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/freelancerrafaelsantos)
@@ -19,6 +20,5 @@ Fala dev´s sou Rafael, desenvolverdor front-end, um apaixonado por tecnologia q
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaelSantos0322&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Eletric Car](https://github-readme-stats.vercel.app/api/pin/?username=RafaelSantos0322&repo=eletric_car&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RafaelSantos0322/eletric_car)
-[![QuizAppBible](https://github-readme-stats.vercel.app/api/pin/?username=RafaelSantos0322&repo=QuizAppBible&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RafaelSantos0322/QuizAppBible)
+[![Projeto01]([https://github-readme-stats.vercel.app/api/pin/?username=RafaelSantos0322&repo=eletric_car&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RafaelSantos0322/eletric_car](https://github.com/RafaelSantos0322/projeto01))
 
