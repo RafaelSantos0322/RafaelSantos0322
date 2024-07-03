@@ -20,5 +20,5 @@ Tenho conhecimento em CSS3, HTML5, JavaScript, Git, GitHub,  além de entender a
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaelSantos0322&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Meus Principais Desafios de Projeto DIO
-[![Projeto01]([https://github.com/RafaelSantos0322/projeto01](https://github.com/RafaelSantos0322/projeto01)])
+[![Projeto01](https://github-readme-stats.vercel.app/api/pin/?username=RafaelSantos0322&repo=Projeto01&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RafaelSantos0322/projeto01)
 
